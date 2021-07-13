@@ -1,11 +1,15 @@
-package com.Keep.Password.Model;
+package com.Keep.Password.Model.InfoApp;
 
-import java.util.UUID;
+import com.sun.istack.internal.NotNull;
+
 
 public class InfoApp {
 
+    @NotNull
     private final String applicationName;
+    @NotNull
     private String userName;
+    @NotNull
     private String password;
 
 
@@ -27,6 +31,14 @@ public class InfoApp {
 
     public String getPassword() {
         return password;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 
 }
