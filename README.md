@@ -10,3 +10,7 @@ Each registered user is allowed to:
 
 System requirements:
 Service Tomcat.
+
+technical stack:
+IntelliJ IDEA, 
+Spring Boot Framework.
