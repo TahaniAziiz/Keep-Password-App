@@ -9,7 +9,7 @@ Each registered user is allowed to:
 3- Can modify password or username.
 
 System requirements:
-Service Tomcat.
+Service Tomcat, MongoDB.
 
 technical stack:
 IntelliJ IDEA, 
