@@ -1,16 +1,14 @@
-# Keep-Password-App
-It is an application that keeps passwords of users.
+# Keep-Password-AppIt 
+is an application that keeps passwords of users.
 
-The goal is that it helps users to keeps their passwords, by registering in the application or logging in if the user is registered.
+The goal of the application is to help users to save their passwords in a secure place. 
 
-Each registered user is allowed to:
-1- To enter more than one application with "Username, Password and Confirmation".
-2- Can delete his account if he wants. Or delete one of the entered applications.
+Each registered user is allowed to: 
+
+1- To enter more than one application with "Username, Password and Confirmation". 
+2- Can delete his account if he wants, or delete one of the entered applications.
 3- Can modify password or username.
 
-System requirements:
-Service Tomcat, MongoDB.
+System requirements: Service Tomcat, MongoDB.
 
-technical stack:
-IntelliJ IDEA, 
-Spring Boot Framework.
+Technical Stack: ​IntelliJ IDEA, Spring Boot Framework
